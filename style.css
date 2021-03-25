@@ -1,0 +1,53 @@
+body {
+    font-family:'Caveat', 'Roboto Mono',monospace;
+    min-height: 800px;
+    background-color: #537351;
+    background-size: cover;
+    background-position: center top;
+    
+  }
+  
+  .container {
+    text-align: center;
+    padding: 50px;
+    height: 50vh;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: #ffffff;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  
+  h2 {
+    position: absolute;
+    font-size:16px;
+    font-weight:bold;
+    top: 142px;
+    left: calc(40%);
+    width: 300px;
+    text-align:center;
+  }
+  
+.enviar{
+  background-color:#D9753B;
+  border-radius: 5px;
+  padding: 8px;
+  border: none;
+  
+}
+
+.campo{
+  padding: 8px 40px;
+  border-radius: 5px;
+  border:none;
+}
